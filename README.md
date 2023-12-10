@@ -1,15 +1,21 @@
 # Hi there, I'm Erik 👋👨‍💻
 
-## I'm a student 
+## I'm a frontend developer student from Madrid, Spain
+
+## Work
 - 🔭 I'm currently studying an advanced specific vocational training of Development Web Applications
   
 - 🌱 I'm currently learnin everything I can (and that I like or it´s useful to me)
+
+- 💬 Ask me about anything, I would try to help you
+
+- 📫 How to reach me **erikote2004@icloud.com** 
   
 - 🥅 Goals: Become a fullstack frontend developer and/or iOS developer
   
 - ⚡️ Fun fact: I love to draw and play music instruments
 
-## Connect with me:
+## Social:
 <p align="left">
   <a href="https://twitter.com/erikote_drummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erikote_drummer" height="30" width="40" /></a>
   <a href="https://instagram.com/erikote_drummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikote_drummer" height="30" width="40" /></a>
