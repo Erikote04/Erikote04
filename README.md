@@ -5,7 +5,7 @@
 ## Work
 - 🔭 I'm currently studying an advanced specific vocational training of Development Web Applications
   
-- 🌱 I'm currently learnin everything I can (and that I like or it´s useful to me)
+- 🌱 I'm currently learnin everything I can (and that I like or it's useful to me)
 
 - 💬 Ask me about anything, I would try to help you
 
@@ -16,38 +16,36 @@
 - ⚡️ Fun fact: I love to draw and play music instruments
 
 ## Social:
-<p align="left">
-  <a href="https://twitter.com/erikote_drummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erikote_drummer" height="30" width="40" /></a>
-  <a href="https://instagram.com/erikote_drummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erikote_drummer" height="30" width="40" /></a>
-</p>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/erikote_drummer/)
 
 ## Skills:
 <p align="left">
   
   ##### Programming Languages:
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </span>
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </span>
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </span>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
   ##### Frontend Development:
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </span>
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </span>
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </span>
-  <span> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </span>
-
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+ 
   ##### Database:
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </span>
-  <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </span>
-
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+ 
   ##### Software:
-  <span> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </span>
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
   ##### Others:
-  <span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </span>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </p>
 
 ## 📊 Stats
-![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erikote04&show_icons=true&theme=tokyonight) <br>
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikote04&layout=donut&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erikote04&show_icons=true&theme=tokyonight)
 
 Scroll down for my repos!👇
