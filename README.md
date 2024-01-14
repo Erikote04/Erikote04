@@ -5,9 +5,9 @@
 ## Work
 - 🔭 I'm currently studying an advanced specific vocational training of Development Web Applications
   
-- 🌱 I'm currently learnin everything I can (and that I like or it's useful to me)
+- 🌱 I'm currently learning everything I can (and that I like or it's useful to me)
 
-- 💬 Ask me about anything, I would try to help you
+- 💬 Ask me about anything, I will try to help you
 
 - 📫 How to reach me **erikote2004@icloud.com** 
   
