@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **erikote2004@icloud.com** 
   
-- 🥅 Goals: Become a fullstack frontend developer and/or iOS developer
+- 🥅 Goals: Become a fullstack developer and/or iOS developer
   
 - ⚡️ Fun fact: I love to draw and play music instruments
 
