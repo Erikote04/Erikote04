@@ -1,17 +1,17 @@
 # Hi there, I'm Erik 👋👨‍💻
 
-## I'm a frontend developer student from Madrid, Spain
+## I'm a iOS developer student from Madrid, Spain
 
 ## Work
-- 🔭 I'm currently studying an advanced specific vocational training of Development Web Applications
+- 🔭 I'm currently working as an iOS developer at VASS
   
-- 🌱 I'm currently learning everything I can (and that I like or it's useful to me)
+- 🌱 I'm currently learning about SwiftUI and Apple's latest tools
 
 - 💬 Ask me about anything, I will try to help you
 
 - 📫 How to reach me **erikote2004@icloud.com** 
   
-- 🥅 Goals: Become a fullstack developer and/or iOS developer
+- 🥅 Goals: Master Apple's Tools to be like a Final Boss iOS Developer
   
 - ⚡️ Fun fact: I love to draw and play music instruments
 
