@@ -1,6 +1,6 @@
 # Hi there, I'm Erik 👋👨‍💻
 
-## I'm a iOS developer student from Madrid, Spain
+## I'm a iOS developer from Madrid, Spain
 
 ## Work
 - 🔭 I'm currently working as an iOS developer at VASS
